@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajos_szabalyzat_excel", "hajos_szabalyzat_excel\hajos_szabalyzat_excel.csproj", "{96C39B3D-E2BC-4E56-BEEF-8EECAC62E256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C39B3D-E2BC-4E56-BEEF-8EECAC62E256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C39B3D-E2BC-4E56-BEEF-8EECAC62E256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C39B3D-E2BC-4E56-BEEF-8EECAC62E256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C39B3D-E2BC-4E56-BEEF-8EECAC62E256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EC107F-C6A0-403D-9A07-880518DA1349}
+	EndGlobalSection
+EndGlobal
